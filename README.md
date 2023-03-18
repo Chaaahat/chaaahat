@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaaahat&show_icons=true&theme=radical)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chaaahat&theme=radical)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaaaha&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaaahat&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=chaaahat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
